@@ -1,2 +1,2 @@
 # AES
-Implementation of AES encryption algorithm in C++
+Implementation of AES FIPS 197 (128-bit key) encryption algorithm in C++.
