@@ -7,8 +7,18 @@ It's made to see each step of the algorithm.
 _It isn't designed for real use._  
 
 ### How can I use it
-To make it work, you can simply download the [aes file](../master/aes) and compile it on your terminal (./aes command).  
-You can also download the [whole repository](https://github.com/hugoseri/AES) and compile the code with make aes (gcc compiler needed).  
+To make it work, you can simply download the [aes file](../master/aes) and do the following command :  
+```
+./aes
+```
+
+
+You can also download the [whole repository](https://github.com/hugoseri/AES) and compile the code with the following command : 
+```
+make aes
+```
+
+_(gcc compiler needed)._
 
 ### How it works
 You can download [the original paper](../master/TD1_nist.fips.197.pdf) on the different detailed steps of the algorithm.  
