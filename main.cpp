@@ -3,8 +3,6 @@
 #include <cmath>
 using namespace std;
 
-//simon.pontie@cea.fr
-
 #include "keyMatrix.h"
 #include "messageMatrix.h"
 
