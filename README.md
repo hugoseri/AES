@@ -21,6 +21,6 @@ make aes
 _(gcc compiler needed)._
 
 ### How it works
-You can download [the original paper](../master/TD1_nist.fips.197.pdf) on the different detailed steps of the algorithm.  
+You can check [the original paper](https://csrc.nist.gov/csrc/media/publications/fips/197/final/documents/fips-197.pdf) on the different detailed steps of the algorithm.  
 
 
